@@ -1,0 +1,4 @@
+APP_ABI := armeabi
+APP_MODULES := lame
+APP_CFLAGS += -DSTDC_HEADERS
+APP_PLATFORM := android-11
